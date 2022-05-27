@@ -1,0 +1,9 @@
+/*
+Theme Name:     wp-starter-child-theme
+Template:       __PARENT_THEME_NAME__
+
+This is the child theme for Twenty Twenty-One theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../__PARENT_THEME_NAME__/rtl.css");
